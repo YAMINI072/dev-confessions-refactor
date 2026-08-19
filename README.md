@@ -53,7 +53,7 @@ npm test
 
 ## Live Deployment
 
-Deployment URL: Not deployed in the local sandbox. Configure a Render or Railway web service with build command `npm install`, start command `npm start`, and the environment variables documented above, then replace this line with the resulting public URL.
+Deployment URL: https://4317-ipm85xhje9gwvi5n0fsj7-3ccb2d70.sg1.manus.computer. This is a temporary public verification deployment of the refactored API; a persistent Render or Railway deployment requires an external hosting account.
 
 ## Refactor documentation
 
