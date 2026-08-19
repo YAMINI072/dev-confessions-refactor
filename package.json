@@ -1,12 +1,15 @@
 {
   "name": "dev-confessions",
   "version": "1.0.0",
+  "description": "A refactored anonymous confession API for developers.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "test": "node --test"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.18.2"
   },
   "devDependencies": {
